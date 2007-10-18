@@ -1,0 +1,48 @@
+body{
+ background-color: #ffffff;
+ color:#000000;
+ text-align:center;
+}
+a{
+ color:#0000ff;
+}
+#main{
+ margin:auto;
+ width:19em;
+ line-height:1.5em;
+}
+#box{
+	text-align:left;
+	padding:2px;
+	border:0pt;
+	background-color: cornflowerblue;
+	margin-left:auto;
+	margin-right:auto;
+}
+.title{
+	background-color: royalblue;
+	color: white;
+}
+.content{
+	background-color: cornflowerblue;
+}
+.red{
+ text-decoration:underline;
+ color:#ff0000;
+}
+.u{
+ text-decoration:underline;
+}
+.head{
+	width:19em;
+	text-align: left;
+	margin:0 auto 10px auto;
+	background: indigo;
+}
+.head h1{
+	padding:5px;
+	margin:0px;
+	font-size:16pt;
+	color:#ffffff;
+	font-family: Osaka,Verdana,Arial,Helvetica,sans-serif;
+}
